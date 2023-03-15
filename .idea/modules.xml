@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/File/File.iml" filepath="$PROJECT_DIR$/File/File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled2/Mealchoosing-System.iml" filepath="$PROJECT_DIR$/untitled2/Mealchoosing-System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled1/MealchoosingImage/MealchoosingImage.iml" filepath="$PROJECT_DIR$/untitled1/MealchoosingImage/MealchoosingImage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Socket/Socket.iml" filepath="$PROJECT_DIR$/Socket/Socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled1/untitled1.iml" />
+    </modules>
+  </component>
+</project>
